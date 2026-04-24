@@ -43,10 +43,10 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🏙️ System Design Simulator](https://github.com/kunal202426/Autonomous-agent-marketplace) | Distributed systems chaos engineering & architecture simulator | React, Node.js, Docker |
-| [🏙️ Sim City](https://github.com/kunal202426) | 3D city simulation with real-time data analytics & urban modeling | React, Three.js, Python |
-| [💹 Trading App](https://github.com/kunal202426/trading_app) | Live trading platform with real-time market data for YES Securities | React, Node.js, Microservices |
-| [🤖 Autonomous Agent Marketplace](https://github.com/kunal202426/Autonomous-agent-marketplace) | Multi-agent coding workflow with planner, debugger & reviewer agents | Node.js, React, LLM APIs |
+| [🖥️ System Design Simulator](https://github.com/kunal202426/System-Design-Simulator) | Real-time distributed system failure simulator with chaos injection | Python, React, Docker |
+| [🏙️ Sim City](https://github.com/kunal202426/Sim-City) | 3D city simulation with real-time data analytics & urban modeling | TypeScript, React, Three.js |
+| [💹 Trading App](https://github.com/kunal202426/Trading-App) | Live trading platform with real-time market data for YES Securities | React, Node.js, Microservices |
+| [🤖 Autonomous Agent Marketplace](https://github.com/kunal202426/Autonomous-agent-marketplace) | Multi-agent coding workflow with planner, debugger & reviewer agents | TypeScript, Node.js, LLM APIs |
 
 ---
 
