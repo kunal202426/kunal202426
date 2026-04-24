@@ -43,10 +43,10 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [📈 Stock Prediction](https://github.com/kunal202426/Stock-Prediction) | Real-time stock analytics with FinBERT sentiment analysis | Python, React, FastAPI |
-| [🤖 Autonomous Agent Marketplace](https://github.com/kunal202426/Autonomous-agent-marketplace) | Multi-agent coding workflow with debugger & reviewer agents | Node.js, React |
-| [💼 Job Tracker](https://github.com/kunal202426/job-tracker) | Automated job scraping & application tracker | Python, React, Selenium |
-| [📊 Trading App](https://github.com/kunal202426/trading_app) | Live trading platform features for YES Securities | React, Node.js, Microservices |
+| [🏙️ System Design Simulator](https://github.com/kunal202426/Autonomous-agent-marketplace) | Distributed systems chaos engineering & architecture simulator | React, Node.js, Docker |
+| [🏙️ Sim City](https://github.com/kunal202426) | 3D city simulation with real-time data analytics & urban modeling | React, Three.js, Python |
+| [💹 Trading App](https://github.com/kunal202426/trading_app) | Live trading platform with real-time market data for YES Securities | React, Node.js, Microservices |
+| [🤖 Autonomous Agent Marketplace](https://github.com/kunal202426/Autonomous-agent-marketplace) | Multi-agent coding workflow with planner, debugger & reviewer agents | Node.js, React, LLM APIs |
 
 ---
 
