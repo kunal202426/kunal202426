@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kunal%20Mathur&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%E2%80%A2%20Blockchain%20%E2%80%A2%20AI%2FML%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kunal%20Mathur&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Blockchain%20Dev&descAlignY=58&descSize=16&descColor=a78bfa" width="100%"/>
 </div>
 
 <br/>
@@ -23,7 +23,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+production-grade+full-stack+apps+%F0%9F%9A%80;Blockchain+%2B+AI+%2B+System+Design+enthusiast+%F0%9F%A7%A0;Final+year+CSE+%40+VIT+Vellore+%F0%9F%8E%93;Open+to+SWE+roles+%E2%80%94+Let%27s+connect!+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%9A%80;AI+%2F+ML+Engineer+%F0%9F%A4%96;Data+Analyst+%F0%9F%93%8A;Blockchain+Developer+%E2%9B%93%EF%B8%8F;Building+production-grade+apps+%F0%9F%94%A5;Open+to+SWE+roles+%E2%80%94+Let%27s+connect!+%F0%9F%A4%9D" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -37,9 +37,14 @@ const kunal = {
   location   : "Bengaluru, India 📍",
   education  : "B.Tech CSE (Blockchain) — VIT Vellore '26 🎓",
   internship : "Full Stack Developer @ YES Securities 💼",
-  building   : ["Stock Analytics Platform", "Autonomous Agent Marketplace"],
+  roles      : [
+    "💻 Software Developer",
+    "🤖 AI / ML Engineer",
+    "📊 Data Analyst",
+    "⛓️  Blockchain Developer"
+  ],
   stack      : ["React", "Node.js", "Python", "FastAPI", "Solidity", "Docker"],
-  interests  : ["System Design", "Chaos Engineering", "DeFi", "ML/AI"],
+  interests  : ["System Design", "Chaos Engineering", "DeFi", "Predictive Analytics"],
   funFact    : "I simulate city collapses for fun 🏙️💥"
 };
 ```
@@ -52,25 +57,35 @@ const kunal = {
 
 <div align="center">
 
-### Frontend
+### 💻 Software Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-### Backend & ML
+### 🤖 AI / ML & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Blockchain & Infra
+### ⛓️ Blockchain
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+
+### ☁️ Infra & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -105,7 +120,7 @@ const kunal = {
           <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Real-time distributed system observability platform with chaos injection, Z-score anomaly detection, cascade failure detection & Slack alerts.</p>
+      <p align="center">Real-time distributed system observability with chaos injection, Z-score anomaly detection, cascade failure detection & Slack alerts.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -122,12 +137,11 @@ const kunal = {
           <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Interactive 3D city simulation with real-time urban analytics, demand allocation sliders, forecast engine, and anomaly detection across zones.</p>
+      <p align="center">Interactive 3D city simulation with real-time urban analytics, demand allocation, forecast engine & anomaly detection across zones.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Zustand-FF6B35?style=flat-square&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
@@ -137,12 +151,11 @@ const kunal = {
           <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Decentralized AI agent marketplace with on-chain escrow, verifiable off-chain execution, proof submission, and a Next.js task management dashboard.</p>
+      <p align="center">Decentralized AI agent marketplace with on-chain escrow, verifiable off-chain execution & Next.js task management dashboard.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
         <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=flat-square&logo=hardhat&logoColor=black"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       </p>
     </td>
   </tr>
