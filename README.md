@@ -36,7 +36,7 @@
 const kunal = {
   location   : "Bengaluru, India 📍",
   education  : "B.Tech CSE (Blockchain) — VIT Vellore '26 🎓",
-  internship : "Full Stack Developer @ YES Securities 💼",
+  internship : "Full Stack Developer @ YES Bank 💼",
   roles      : [
     "💻 Software Developer",
     "🤖 AI / ML Engineer",
