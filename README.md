@@ -43,7 +43,7 @@ const kunal = {
     "📊 Data Analyst",
     "⛓️  Blockchain Developer"
   ],
-  stack      : ["React", "Node.js", "Python", "FastAPI", "Solidity", "Docker"],
+  stack      : ["React.js", "Express.js" ,"Node.js","MongoDB" , "PostgreSql" , "Python", "FastAPI", "Solidity", "Docker"],
   interests  : ["System Design", "Chaos Engineering", "DeFi", "Predictive Analytics"],
   funFact    : "I simulate city collapses for fun 🏙️💥"
 };
