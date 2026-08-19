@@ -65,6 +65,10 @@ const categories = [
   },
 ]
 
+function xmlEscape(str) {
+  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+}
+
 function pillWidth(name) {
   return Math.round(name.length * CHAR_WIDTH + PILL_H_PADDING * 2)
 }
@@ -97,7 +101,7 @@ function main() {
   const parts = []
   for (const block of categoryBlocks) {
     parts.push(
-      `<text x="${PADDING}" y="${y + 12}" font-size="13" font-weight="700" letter-spacing="1.5" fill="#E8560C" font-family="Consolas, 'Courier New', monospace">${block.label}</text>`,
+      `<text x="${PADDING}" y="${y + 12}" font-size="13" font-weight="700" letter-spacing="1.5" fill="#E8560C" font-family="Consolas, 'Courier New', monospace">${xmlEscape(block.label)}</text>`,
     )
     y += 32
     for (const row of block.rows) {
@@ -105,7 +109,7 @@ function main() {
       for (const item of row) {
         parts.push(
           `<rect x="${x}" y="${y}" width="${item.width}" height="${PILL_HEIGHT}" rx="15" fill="#${item.bg}"/>` +
-            `<text x="${x + item.width / 2}" y="${y + PILL_HEIGHT / 2 + 4.5}" text-anchor="middle" font-size="${FONT_SIZE}" font-weight="700" fill="${item.text}" font-family="'Segoe UI', Arial, sans-serif">${item.name}</text>`,
+            `<text x="${x + item.width / 2}" y="${y + PILL_HEIGHT / 2 + 4.5}" text-anchor="middle" font-size="${FONT_SIZE}" font-weight="700" fill="${item.text}" font-family="'Segoe UI', Arial, sans-serif">${xmlEscape(item.name)}</text>`,
         )
         x += item.width + PILL_GAP
       }
