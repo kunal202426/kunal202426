@@ -1,0 +1,30 @@
+<svg width="900" height="412" viewBox="0 0 900 412" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="412" rx="14" fill="#0E0E0B" stroke="#2A2E1F" stroke-width="1.5"/>
+  <text x="30" y="46" font-size="13" font-weight="700" letter-spacing="1.5" fill="#E8560C" font-family="Consolas, 'Courier New', monospace">💻 FULL STACK DEVELOPMENT</text>
+  <image href="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" x="30" y="64" width="86" height="28"/>
+  <image href="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" x="124" y="64" width="127" height="28"/>
+  <image href="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" x="259" y="64" width="99" height="28"/>
+  <image href="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" x="366" y="64" width="101" height="28"/>
+  <image href="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" x="475" y="64" width="123" height="28"/>
+  <image href="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" x="606" y="64" width="143" height="28"/>
+  <image href="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" x="757" y="64" width="106" height="28"/>
+  <text x="30" y="138" font-size="13" font-weight="700" letter-spacing="1.5" fill="#E8560C" font-family="Consolas, 'Courier New', monospace">🤖 AI / ML & DATA</text>
+  <image href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" x="30" y="156" width="98" height="28"/>
+  <image href="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" x="136" y="156" width="101" height="28"/>
+  <image href="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" x="245" y="156" width="106" height="28"/>
+  <image href="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" x="359" y="156" width="135" height="28"/>
+  <image href="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" x="502" y="156" width="140" height="28"/>
+  <image href="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" x="650" y="156" width="98" height="28"/>
+  <text x="30" y="230" font-size="13" font-weight="700" letter-spacing="1.5" fill="#E8560C" font-family="Consolas, 'Courier New', monospace">⛓️ BLOCKCHAIN</text>
+  <image href="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" x="30" y="248" width="109" height="28"/>
+  <image href="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black" x="147" y="248" width="88" height="28"/>
+  <image href="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" x="243" y="248" width="115" height="28"/>
+  <image href="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" x="366" y="248" width="96" height="28"/>
+  <text x="30" y="322" font-size="13" font-weight="700" letter-spacing="1.5" fill="#E8560C" font-family="Consolas, 'Courier New', monospace">☁️ INFRA & TOOLS</text>
+  <image href="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" x="30" y="340" width="98" height="28"/>
+  <image href="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" x="136" y="340" width="131" height="28"/>
+  <image href="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" x="275" y="340" width="111" height="28"/>
+  <image href="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" x="394" y="340" width="85" height="28"/>
+  <image href="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" x="487" y="340" width="94" height="28"/>
+  <image href="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" x="589" y="340" width="68" height="28"/>
+</svg>
