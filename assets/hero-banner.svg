@@ -1,0 +1,63 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0E0E0B"/>
+      <stop offset="55%" stop-color="#1C1F15"/>
+      <stop offset="100%" stop-color="#2A2E1F"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="38%" r="55%">
+      <stop offset="0%" stop-color="#E8560C" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#E8560C" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="mtnBack" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#23261A"/>
+      <stop offset="100%" stop-color="#181B12"/>
+    </linearGradient>
+    <linearGradient id="mtnMid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#171913"/>
+      <stop offset="100%" stop-color="#101209"/>
+    </linearGradient>
+    <style>
+      @keyframes pulse {
+        0%, 100% { opacity: 0.55; transform: scale(1); }
+        50% { opacity: 0.95; transform: scale(1.06); }
+      }
+      @keyframes drift {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-40px); }
+      }
+      @keyframes drawLine {
+        to { stroke-dashoffset: 0; }
+      }
+      #glowCircle { animation: pulse 4s ease-in-out infinite; transform-origin: 600px 110px; }
+      #backRange { animation: drift 22s linear infinite alternate; }
+      #midRange { animation: drift 15s linear infinite alternate; }
+      #accentLine { stroke-dasharray: 360; stroke-dashoffset: 360; animation: drawLine 1.8s ease-out 0.4s forwards; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#sky)"/>
+  <circle id="glowCircle" cx="600" cy="110" r="200" fill="url(#glow)"/>
+
+  <g id="backRange" opacity="0.8">
+    <polygon points="-50,300 60,150 180,260 300,120 430,300" fill="url(#mtnBack)"/>
+    <polygon points="700,300 830,140 950,250 1080,110 1250,300" fill="url(#mtnBack)"/>
+  </g>
+  <g id="midRange" opacity="0.9">
+    <polygon points="-80,300 120,190 260,300" fill="url(#mtnMid)"/>
+    <polygon points="900,300 1060,170 1250,300" fill="url(#mtnMid)"/>
+  </g>
+
+  <text x="600" y="128" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="4" fill="#F0EBE0">
+    KUNAL <tspan fill="#E8560C">MATHUR</tspan>
+  </text>
+
+  <line id="accentLine" x1="420" y1="160" x2="780" y2="160" stroke="#E8560C" stroke-width="2"/>
+
+  <text x="600" y="196" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="19" letter-spacing="2" fill="#D4C4A8">
+    SOFTWARE DEVELOPER · FULL STACK ENGINEER · ML ENGINEER
+  </text>
+  <text x="600" y="228" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="1" fill="#9B8B70">
+    building production systems, not just applications
+  </text>
+</svg>

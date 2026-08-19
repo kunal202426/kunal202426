@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E0E0B,50:1C1F15,100:2A2E1F&height=200&section=header&text=Kunal%20Mathur&fontSize=50&fontColor=F0EBE0&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Blockchain%20Dev&descAlignY=58&descSize=16&descColor=E8560C" width="100%"/>
+  <img src="assets/hero-banner.svg" width="100%" alt="Kunal Mathur — Software Developer, Full Stack Engineer, ML Engineer"/>
 </div>
 
 <br/>
@@ -27,32 +27,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E8560C&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%9A%80;Full+Stack+Engineer+%F0%9F%92%BB;AI+%2F+ML+Engineer+%F0%9F%A4%96;Blockchain+Developer+%E2%9B%93%EF%B8%8F;Building+production-grade+systems+%F0%9F%94%A5;Open+to+SWE+roles+%E2%80%94+Let%27s+connect!+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="assets/terminal-boot.svg" width="620" alt="Terminal session"/>
 </div>
-
-<br/>
-
----
-
-## 🧑‍💻 About Me
-
-```typescript
-const kunal = {
-  location   : "Bengaluru, India 📍",
-  education  : "B.Tech CSE (Blockchain) — VIT Vellore '26 🎓",
-  internship : "Full Stack Developer @ YES Securities (YES Bank) 💼",
-  philosophy : "I build systems, not just applications.",
-  roles      : [
-    "💻 Full Stack Developer",
-    "🤖 AI / ML Engineer",
-    "⛓️  Blockchain Developer",
-    "📊 Data & Systems Engineer"
-  ],
-  stack      : ["React", "Node.js", "FastAPI", "PostgreSQL", "Python", "Three.js", "Solidity", "Docker"],
-  interests  : ["System Design", "Chaos Engineering", "DeFi", "Real-Time ML"],
-  funFact    : "I simulate city collapses and neural network failures for fun 🏙️💥"
-};
-```
 
 <br/>
 
@@ -124,10 +100,10 @@ const kunal = {
           <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">AI-native repository intelligence — a graph-indexed codebase understanding layer with semantic search and agent-ready context retrieval.</p>
+      <p align="center">AI-native code retrieval engine — a codebase modeled as an entity/edge graph in DuckDB with a 9-language parsing pipeline and hybrid ranking, cutting agent context usage ~9.6x.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Graph_DB-4479A1?style=flat-square&logo=neo4j&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
         <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white"/>
       </p>
     </td>
@@ -199,48 +175,45 @@ const kunal = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🧭 Career Journey
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunal202426/kunal202426/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunal202426/kunal202426/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/kunal202426/kunal202426/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
+  <img src="assets/career-timeline.svg" width="100%" alt="Career timeline: E-Cell VIT, Team Levitate Hyperloop, YES Securities"/>
 </div>
 
 <br/>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal202426&show_icons=true&hide_border=true&bg_color=0E0E0B&title_color=E8560C&icon_color=E8560C&text_color=F0EBE0&ring_color=E8560C" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal202426&layout=compact&hide_border=true&bg_color=0E0E0B&title_color=E8560C&text_color=F0EBE0" height="170"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal202426&hide_border=true&background=0E0E0B&ring=E8560C&fire=E8560C&currStreakLabel=E8560C&sideLabels=F0EBE0&dates=D4C4A8&stroke=1C1F15" width="70%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal202426&bg_color=0E0E0B&color=F0EBE0&line=E8560C&point=F0EBE0&area=true&hide_border=true" width="95%"/>
-</div>
+<table>
+  <tr>
+    <td width="60">🥇</td>
+    <td>
+      <b>Winner — Global Hyperloop Competition</b> (Asia's First), IIT Madras · 2025<br/>
+      <sub>Secured six awards across engineering, design & technical presentation, representing VIT Vellore.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="60">🎯</td>
+    <td>
+      <b>National Semi-Finalist — Flipkart GRiD 7.0</b> · 2025<br/>
+      <sub>Advanced to national semi-finals in a highly competitive software engineering challenge.</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunal202426&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+  <img src="assets/stats-card.svg" width="100%" alt="Live GitHub stats"/>
+  <br/>
+  <sub><i>refreshed automatically every 6 hours via GitHub Actions</i></sub>
 </div>
 
 <br/>
@@ -252,7 +225,3 @@ const kunal = {
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2E1F,50:1C1F15,100:0E0E0B&height=120&section=footer" width="100%"/>
-</div>
